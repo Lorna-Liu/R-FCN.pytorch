@@ -1,5 +1,7 @@
 # A Pytorch Implementation of R-FCN/CoupleNet
 
+This repo has moved to [princewang1994/RFCN_CoupleNet.pytorch]/(https://github.com/princewang1994/RFCN_CoupleNet.pytorch), all and stop updating here.
+
 ## Introduction
 
 This project is an pytorch implement R-FCN and CoupleNet, large part code is reference from [jwyang/faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch). The R-FCN structure is refer to [Caffe R-FCN](https://github.com/daijifeng001/R-FCN) and [Py-R-FCN](https://github.com/YuwenXiong/py-R-FCN)
