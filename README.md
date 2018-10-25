@@ -1,6 +1,6 @@
 # A Pytorch Implementation of R-FCN/CoupleNet
 
-This repo has moved to [princewang1994/RFCN_CoupleNet.pytorch](https://github.com/princewang1994/RFCN_CoupleNet.pytorch), all and stop updating here.
+This repo has moved to [princewang1994/RFCN_CoupleNet.pytorch](https://github.com/princewang1994/RFCN_CoupleNet.pytorch), it will stop updating here.
 
 ## Introduction
 
