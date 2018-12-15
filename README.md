@@ -28,7 +28,7 @@ This repo has following modification compare to [jwyang/faster-rcnn.pytorch](htt
 
 arXiv:1708.02863:[CoupleNet: Coupling Global Structure with Local Parts for Object Detection](https://arxiv.org/abs/1708.02863)
 
-![](http://oodo7tmt3.bkt.clouddn.com/blog_20180816205255.png)
+![](http://princepicbed.oss-cn-beijing.aliyuncs.com/blog_20180816205255.png)
 
 - Making changes based on R-FCN
 - Implement local/global FCN in CoupleNet
