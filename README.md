@@ -13,7 +13,7 @@ This project is an pytorch implement R-FCN and CoupleNet, large part code is ref
 
 arXiv:1605.06409: [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409)
 
-![15063403082127](http://oodo7tmt3.bkt.clouddn.com/blog_201807132042010817.jpg)
+![15063403082127](http://princepicbed.oss-cn-beijing.aliyuncs.com/blog_201807132042010817.jpg)
 
 This repo has following modification compare to [jwyang/faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch):
 
